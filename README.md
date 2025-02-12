@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey! I'm Tatiana Rodriguez 👋
 
-<!--
-**trodriguez30/trodriguez30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with around 6 years of experience in web, mobile, and OTT development. I love working with JavaScript, and I'm pretty comfortable with Vue.js, React.js, and React Native. I focus on building scalable, high-quality apps and writing tests to keep everything running smoothly. I've also worked a lot with OTT platforms like Roku, smart TVs, and Apple TV. I'm always learning and pushing myself to improve, and I enjoy working in a collaborative environment.
 
-Here are some ideas to get you started:
+## Tech Skills 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming**: JavaScript, TypeScript
+- **Frameworks & Libraries**:
+  - Vue.js (Vue 2 and Vue 3)
+  - React.js
+  - React Native
+  - Gatsby.js
+  - Tailwind CSS
+- **Tools**: Webpack, Expo
+- **Testing**: Jest, Playwright
+- **Version Control**: Git
+- **OTT Streaming**: Roku, Apple TV, Samsung TV, LG TV, LightningJS
+
+## Let's Connect! 🌍
+
+- **Email**: tatianarodriguezpacheco@gmail.com
+- **LinkedIn**: [linkedin.com/in/tatianapaolarodriguezpacheco](https://linkedin.com/in/tatianapaolarodriguezpacheco)
+
+Thanks for stopping by! Feel free to reach out! 😊
