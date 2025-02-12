@@ -11,11 +11,12 @@ I'm a software developer with around 6 years of experience in web, mobile, and O
   - React Native
   - Gatsby.js
   - Tailwind CSS
+  - LightningJS
 - **Build Tools**: Webpack, Vite, Expo
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **Testing**: Jest, Playwright
-- **UI/UX Tools**: Storybook
-- **Streaming**: Roku, Apple TV, Samsung TV, LG TV, LightningJS
+- **UI/UX Tools**: Storybook, Figma
+- **Streaming**: Roku, Apple TV, Samsung TV, LG TV
 - **Architecture**: Microfrontend
 
 ## Soft Skills 🧠
@@ -26,6 +27,11 @@ I'm a software developer with around 6 years of experience in web, mobile, and O
 - **Teamwork**: Enjoy working with others and believe in the power of collaboration.
 - **Attention to Detail**: Focused on delivering quality work with precision.
 - **Time Management**: Able to juggle multiple tasks and meet deadlines.
+
+## Languages 🌍
+
+- **Proficient in English**: Comfortable communicating effectively in English, both written and spoken.
+- **Native in Spanish**: Fluent in Spanish, my first language, for easy and effective communication.
 
 ## Let's Connect! 🌍
 
